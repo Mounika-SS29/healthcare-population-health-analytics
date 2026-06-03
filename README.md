@@ -18,7 +18,8 @@ CDC Diabetes State Burden Toolkit
 - Southern states dominate the top 10 prevalence rankings.
 
 ## Visualization
-[chart image]
+
+![Top 10 States by Diabetes Prevalence](top10_diabetes_states.png)
 
 ## Author
 Mounika Koppaka
